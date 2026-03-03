@@ -1,45 +1,47 @@
-# 🚀 TripLink
+# Project Name
+TripLink
 
-TripLink is a UX case study for a peer-to-peer delivery and shopping mobile application that connects travelers with users who need fast item delivery between cities or countries.
-
----
-
-## 💡 The Idea
-
-TripLink leverages existing travel trips instead of traditional shipping services.
-
-Users can:
-
-- Send items through travelers heading to the same destination.
-- Request travelers to purchase and bring products from other cities or countries.
-
-This creates a win-win model:
-
-- Faster and more affordable delivery for users.
-- Extra income for travelers to help cover travel expenses.
+## Project Idea
+A UX design project focused on designing a secure and fast peer-to-peer delivery mobile application that connects travelers with users locally and internationally.  
+The app focuses on **speed and trust**, providing a reliable solution for urgent item delivery.
 
 ---
 
-## 🔐 Trust & Safety Focus
-
-Since the platform connects strangers, the UX design emphasizes:
-
-- Identity verification
-- Digital agreements
-- Trip tracking
-- Clear communication flows
-- Trust signals in the UI
+## Team Members
+1. Yasmine Magdy Sayed
+2. Mohamed Yasser Mohamed Moustafa
+3. Alyaa Ibrahim Kamel Ahmed
+4. Nada Amr AbdelAlim Algazar
 
 ---
 
-## 🎯 UX Project Scope
+## Project Plan
 
-This educational project focuses on:
+### 1. Research & Analysis
+- Methods: Survey, Personas, Empathy Maps, Competitor Analysis  
+- Number of Personas: 4  
 
-- User research
-- User journeys
-- Safety-first flows
-- Error prevention
-- Usability testing
+### 2. Problem Definition
+Traditional shipping is too slow and unreliable for urgent deliveries, leaving users without a timely solution.
 
-The goal is to design a simple, secure, and anxiety-free experience.
+### 3. Ideation
+- Methods: Brainstorming, Crazy 8s, User Flows  
+- Focus: Designing a secure, fast, and simple delivery experience
+
+### 4. Visual Identity
+- Designs in progress  
+- Planned to create a UI that fits the app concept, strong and user-friendly
+
+### 5. Main Designs
+- Low-fidelity wireframes completed  
+- High-fidelity UI and interactive prototype developed  
+
+---
+
+## Instructor
+ENG. Badr Sayed
+
+---
+
+## Project Files
+Figma Prototype: [Click Here](https://www.figma.com/design/nADyyTYfNBXpVkUKyQ3ZpY/GP_G675_P1?node-id=0-1&t=Hy0G3NqXMa2JoLpX-1)
