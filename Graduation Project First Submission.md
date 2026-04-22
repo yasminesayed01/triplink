@@ -3,13 +3,13 @@
 ## Group Code
 YAT675A_CAI4_DRT2_G1_DEPI4
 
-## Project Device (in English)
-Mobile App
+## Project Device 
+Mobile App (android / IOS )
 
-## Project Name (in English)
+## Project Name 
 TripLink
 
-## Project Idea (in Arabic)
+## Project Idea 
 فكرة المشروع هي تصميم تطبيق موبايل يربط بين المسافرين بالفعل وبين المستخدمين الذين يحتاجون إلى توصيل أغراض أو شراء منتجات من محافظات أو دول أخرى بسرعة.  
 يعتمد التطبيق على استغلال الرحلات الموجودة بالفعل بدلًا من الشحن التقليدي، مما يوفر حلًا أسرع وأقل تكلفة.  
 
@@ -17,7 +17,7 @@ TripLink
 
 يركز المشروع على تصميم تجربة استخدام آمنة وسهلة تقلل القلق عند التعامل بين الغرباء، من خلال التحقق من الهوية، تتبع الرحلات، وتوفير واجهة واضحة وبسيطة.
 
-## Team Members (in English)
+## Team Members 
 Yasmine Magdy Sayed  
 Mohamed Yasser Mohamed Moustafa  
 Alyaa Ibrahim Kamel Ahmed  
