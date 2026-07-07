@@ -43,4 +43,6 @@ ENG. Badr Sayed
 ---
 
 ## Project Files
-Figma Prototype:(https://www.figma.com/design/nADyyTYfNBXpVkUKyQ3ZpY/GP_G675_P1?node-id=1206-3633&t=OhoUHlqIAWhXlVAq-1)
+Figma Prototype:
+(https://www.figma.com/design/nADyyTYfNBXpVkUKyQ3ZpY/GP_G675_P1?node-id=1206-3633&t=OhoUHlqIAWhXlVAq-1)
+https://www.figma.com/design/Zn0NEyXfsfXcwyMhtijeVg/Triplink-Website?node-id=0-1&t=PoGZKsFNH188UNFF-1
