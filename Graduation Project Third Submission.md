@@ -28,3 +28,4 @@ https://www.behance.net/gallery/249493651/TripLink-Travel-Delivery-Mobile-App-UX
 
 ## Figma Link
 https://www.figma.com/design/nADyyTYfNBXpVkUKyQ3ZpY/GP_G675_P1?node-id=1-4&t=mFQ4ULlIf8hDuICQ-1
+https://www.figma.com/design/Zn0NEyXfsfXcwyMhtijeVg/Triplink-Website?node-id=0-1&t=PoGZKsFNH188UNFF-1
